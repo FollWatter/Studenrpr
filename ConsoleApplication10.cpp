@@ -15,18 +15,6 @@ int main()
 	cin >> x;
 	switch (x)
 	{
-	case 1: cout << "Початковий рівень"; break;
-	case 2: cout << "Початковий рівень"; break;
-	case 3: cout << "Початковий рівень"; break;
-	case 4: cout << "Середній рівень"; break;
-	case 5: cout << "Середній рівень"; break;
-	case 6: cout << "Середній рівень"; break;
-	case 7: cout << "Достатній рівень"; break;
-	case 8: cout << "Достатній рівень"; break;
-	case 9: cout << "Достатній рівень"; break;
-	case 10: cout << "Високий рівень"; break;
-	case 11: cout << "Високий рівень"; break;
-	case 12: cout << "Високий рівень"; break;
 	case 1: cout << "F"; break;
 	case 2: cout << "D"; break;
 	case 3: cout << "C"; break;
