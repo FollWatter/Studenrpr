@@ -27,6 +27,11 @@ int main()
 	case 10: cout << "Високий рівень"; break;
 	case 11: cout << "Високий рівень"; break;
 	case 12: cout << "Високий рівень"; break;
+	case 1: cout << "F"; break;
+	case 2: cout << "D"; break;
+	case 3: cout << "C"; break;
+	case 4: cout << "B"; break;
+	case 5: cout << "A"; break;
 	default: cout << "Не існує"; break;
 	}
 	system("pause");
